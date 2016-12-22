@@ -1,0 +1,314 @@
+.middle-line {
+    background-color: #ffd247;
+    height: 158px;
+}
+
+.middle-grey-line {
+    background-color: #f3f3f3;
+    height: 79px;
+}
+
+.middle-menu-nav-first {
+    max-width: 1136px;
+    margin: -219px auto 0;
+}
+
+.middle-menu-first-parent {
+    display: table-cell;
+    padding-right: 20px;
+    vertical-align: top;
+}
+
+.middle-menu-first {
+    background-image: url("http://res.cloudinary.com/shopimgs/image/upload/v1481126376/car1_ntk4pa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 269px;
+    height: 349px;
+    border: 1px solid #f1f1f1;
+    width: 100%;
+}
+
+.middle-menu-second-parent {
+    display: table-cell;
+    padding-right: 20px;
+}
+
+.middle-menu-second {
+    background-image: url("http://res.cloudinary.com/shopimgs/image/upload/v1481126703/car2_e95n8w.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 269px;
+    height: 349px;
+    border: 1px solid #f1f1f1;
+    width: 100%;
+}
+
+.middle-menu-third-parent {
+    display: table-cell;
+    padding-right: 20px;
+}
+
+.middle-menu-third {
+    background-image: url("http://res.cloudinary.com/shopimgs/image/upload/v1481126703/car3_kurelq.png");
+    background-size: cover;
+    width: 269px;
+    height: 349px;
+    border: 1px solid #f1f1f1;
+    width: 100%;
+}
+
+.middle-menu-fourth-parent {
+    display: table-cell;
+}
+
+.middle-menu-fourth {
+    background-image: url("http://res.cloudinary.com/shopimgs/image/upload/v1481126702/car4_otepkc.png");
+    background-size: cover;
+    width: 269px;
+    height: 349px;
+    border: 1px solid #f1f1f1;
+    width: 100%;
+}
+
+.middle-menu-first-header {
+    margin: 0 0 0 auto;
+    margin-left: 15%; 
+    padding-right: 10px;
+    width: 100%;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+
+.middle-menu-first-inner-text {
+    margin: 0 0 0 auto;
+    margin-left: 45%;
+    padding-right: 10px;
+    padding-top: 20px;
+    height: 190px;
+    line-height: 0px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.middle-menu-link-parent {
+    margin: 40px 0 0px auto;
+    width: 120px;
+}
+
+.middle-menu-link {
+    position: relative;
+    text-decoration: none !important;
+    background-color: #ffd247;
+    padding: 5px 30px;
+    color: #000000 !important;
+    border-radius: 15px;
+    font-family: sans-serif;
+}
+
+.middle-menu-nav-second {
+    max-width: 1136px;
+    margin: 30px auto 0;
+}
+
+.middle-menu-second-part-parent {
+    display: table-cell;
+    padding-right: 20px;
+    vertical-align: top;
+}
+
+.middle-menu-second-part-first {
+    background-image: url("http://res.cloudinary.com/shopimgs/image/upload/v1481127892/car5_orykkk.png");
+    background-size: cover;
+    width: 268px;
+    height: 349px;
+    border: 1px solid #f1f1f1;
+}
+
+.middle-menu-second-part-second-parent {
+    display: table-cell;
+    padding-right: 20px;
+    vertical-align: top;
+}
+
+.middle-menu-second-part-second {
+    background-image: url("http://res.cloudinary.com/shopimgs/image/upload/v1481126702/car4_otepkc.png");
+    background-size: cover;
+    width: 269px;
+    height: 349px;
+    border: 1px solid #f1f1f1;
+}
+
+.middle-menu-second-part-img {
+    display: table-cell;
+}
+
+.middle-menu-second-part-main-img {
+    width: 100%;
+    height: 349px;
+}
+
+.middle-menu-nav-third {
+    max-width: 1136px;
+    margin: 30px auto 0;
+}
+
+.middle-header {
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+.middle-menu-line {
+    margin: 5px 0px 15px 0px;
+}
+
+.middle-line-yellow {
+    height: 2px;
+    background-color: #ffd247;
+    width: 198px;
+    display: table-cell;
+}
+
+.middle-line-grey {
+    height: 2px;
+    background-color: #d6d8da;
+    display: table-cell;
+    width: 940px;
+}
+
+.middle-menu-third-part-parent {
+    display: table-cell;
+    padding-right: 20px;
+    vertical-align: top;
+}
+
+.middle-menu-third-part-third {
+    width: 270px;
+    height: 350px;
+    box-shadow: 0px 0px 23px 2px #cfcfcf;
+}
+
+.middle-menu-third-part-header {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: justify;
+    padding: 20px 30px 0px;
+    height: 60px;
+}
+
+.middle-menu-third-part-inner-text {
+    font-size: 10px;
+    text-align: center;
+    color: #8a9eb3;
+    padding: 15px 0px 0px 15px;
+    font-weight: bold;
+}
+
+.middle-menu-third-part-img {
+    margin: 4px 20px;
+    border-bottom: 2px solid #eee29f;
+    height: 170px;
+}
+.middle-menu-third-part-img > a > img {
+height: 170px;
+}
+
+
+.footer-ads-parent {
+    max-width: 1136px;
+    border-bottom: 1px solid #d9dbdc;
+}
+
+.footer-ads-border {
+    margin-bottom: 30px
+}
+
+.footer-ads {
+    display: table-cell;
+    padding-right: 5px;
+}
+
+.footer {
+    max-width: 1136px;
+    text-align: center;
+}
+
+.footer-copy {
+   
+    color: #9fa3a8;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.footer-places {
+    float: right;
+    padding-bottom: 40px;
+}
+
+.footer-tabels {
+    display: table-cell;
+    border-right: 2px solid #9fa3a8;
+    padding: 0px 20px;
+}
+
+.footer-terms-link {
+    text-decoration: none;
+    color: #9fa3a8;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.footer-tabels-last {
+    display: table-cell;
+    padding: 0px 0px 0px 20px;
+}
+.order-main{
+    margin-left: 30px;
+    position: relative;
+}
+
+.order-pound{
+    display: table-cell;
+    font-size: 21px;
+    color: #d5b80f;
+}
+.order-currency{
+    display: table-cell;
+    font-size: 35px;
+    color: #d5b80f;
+    font-family: sans-serif;
+    padding-left: 13px;
+}
+.order-cent{
+    display: table-cell;
+    color: #d5b80f;
+    position: absolute;
+    left: 65px;
+    top: 1px;
+}
+.order-status-main{
+    display: table-cell;
+    position: relative;
+}
+.file-position{
+    padding-left: 40px;
+}
+.cart-position{
+    position: absolute;
+    left: 120px;
+    top: 5px;
+}
+.order{
+    display: table-cell;
+}
+
+.middle-menu-first-inner-text a{
+    line-height: 20px;
+}
+.middle-menu-first-inner-text img {
+    padding-bottom: 1px;
+}
